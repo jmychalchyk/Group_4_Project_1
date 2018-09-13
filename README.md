@@ -1,6 +1,6 @@
 # Group_4_Project_1
 Project Title: Does daylight savings still serve a purpose?
-Team Members: Jeffrey Mychalchyk, Prajakda Gaikwad, Luke Loriorio
+Team Members: Jeffrey Mychalchyk, Prajakda Gaikwad, Luke Iorio
 
 Project Description/Outline
 •	Research Questions to Answer
